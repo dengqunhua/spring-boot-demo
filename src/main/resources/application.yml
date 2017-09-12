@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  context-path: /demo
+user: 
+ name: donggua
+ age: 25
